@@ -9,16 +9,16 @@ If you use the code, please reference the paper in your work.
 
 ## Links
 
-🤗 [Datase of Slavic non-compositional expressions](https://huggingface.co/datasets/izaitova/slavic_fixed_expressions)
-🌐 [Experimental platform where the experiment is hosted](https://intercomprehension.coli.uni-saarland.de/en/)
-📝 [Experiment instructions in Russian](http://bit.ly/experiment-instructions)
+- 🤗 [Datase of Slavic non-compositional expressions](https://huggingface.co/datasets/izaitova/slavic_fixed_expressions)
+- 🌐 [Experimental platform where the experiment is hosted](https://intercomprehension.coli.uni-saarland.de/en/)
+- 📝 [Experiment instructions in Russian](http://bit.ly/experiment-instructions)
 
 
 
 ## Structure Overview
 
-code: main codebase
-data: experimental stimuli, results and result metrics
+- code: main codebase
+- data: experimental stimuli, results and result metrics
 
 ## Acknowledgements 
 
