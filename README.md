@@ -2,7 +2,7 @@
 
 This is the source code for the CogAlex 2024 paper:
 
-'Cross-Linguistic Processing of Non-Compositional Expressions in Slavic Languages' [reference to be added]
+[Cross-Linguistic Processing of Non-Compositional Expressions in Slavic Languages](https://aclanthology.org/2024.cogalex-1.10.pdf) (Zaitova et al., CogALex 2024)
 
 If you use the code, please reference the paper in your work.
 
